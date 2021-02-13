@@ -23,7 +23,7 @@ Mobile application frameworks
     <code><img height="40" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">       </code>
     <code><img height="40" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
   </div>
-  <>
+  <img src="https://github.com/AlexandraDonchenko/AlexandraDonchenko/blob/main/undraw_fixing_bugs_w7gi.svg">
 </div>
 
 <!--
